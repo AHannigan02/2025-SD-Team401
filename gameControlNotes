@@ -1,0 +1,7 @@
+https://docs.elephantrobotics.com/docs/gitbook-en/7-ApplicationBasePython/7.8_Handle_control.html
+
+Spot for demo file
+cd C:\Users\ahann\venv\robotics\Lib\site-packages\pymycobot\demo\handle_control
+
+Run file
+py -m myCobot280_handle_control.py
